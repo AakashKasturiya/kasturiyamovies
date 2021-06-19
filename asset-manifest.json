@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/kasturiyamovies/static/css/main.3664bc6a.chunk.css",
+    "main.js": "/kasturiyamovies/static/js/main.c4d613d8.chunk.js",
+    "main.js.map": "/kasturiyamovies/static/js/main.c4d613d8.chunk.js.map",
+    "runtime-main.js": "/kasturiyamovies/static/js/runtime-main.e497445b.js",
+    "runtime-main.js.map": "/kasturiyamovies/static/js/runtime-main.e497445b.js.map",
+    "static/css/2.af3ab7ac.chunk.css": "/kasturiyamovies/static/css/2.af3ab7ac.chunk.css",
+    "static/js/2.c84f0034.chunk.js": "/kasturiyamovies/static/js/2.c84f0034.chunk.js",
+    "static/js/2.c84f0034.chunk.js.map": "/kasturiyamovies/static/js/2.c84f0034.chunk.js.map",
+    "index.html": "/kasturiyamovies/index.html",
+    "static/css/2.af3ab7ac.chunk.css.map": "/kasturiyamovies/static/css/2.af3ab7ac.chunk.css.map",
+    "static/css/main.3664bc6a.chunk.css.map": "/kasturiyamovies/static/css/main.3664bc6a.chunk.css.map",
+    "static/js/2.c84f0034.chunk.js.LICENSE.txt": "/kasturiyamovies/static/js/2.c84f0034.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e497445b.js",
+    "static/css/2.af3ab7ac.chunk.css",
+    "static/js/2.c84f0034.chunk.js",
+    "static/css/main.3664bc6a.chunk.css",
+    "static/js/main.c4d613d8.chunk.js"
+  ]
+}
